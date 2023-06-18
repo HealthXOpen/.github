@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <!--This is to create a healthy networking environment among the healthcare professionals. Anything to simplify the physicians' IT life and to benefit the patients communication, and to achieve the healthy society at large are warmly welcomed.
+At the end of the day, intentions are important, with altruistic and benevolent goals, we can achieve a positive change in our healthcare to benefit both physicians and patients' population, and thereby creating a positive move forward for many generations to come. 
 
 **Here are some ideas to get you started:**
 
